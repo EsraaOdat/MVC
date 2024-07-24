@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<form method="post" action="/Second/SubmitData">
+    <label for="data">Enter Data:</label>
+    <input type="text" id="data" name="data" />
+    <button type="submit">Submit</button>
+</form>

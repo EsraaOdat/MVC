@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "DisplayData";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<h2>DisplayData</h2>
+
+<h2>Data Received from the Form</h2>
+<p>@ViewBag.ReceivedData</p>
+
+
+
+<div>
+    @Session["Message"]
+</div>
+
+
+
+<a href="/Second/Index">Back to Form</a>

@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Display Data";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Data Received from the Form</h2>
+
+
+
+
+
+        <div>
+    <strong>Name:</strong> @ViewBag.Name<br />
+    <strong>Age:</strong> @ViewBag.Age<br />
+    <strong>Gender:</strong> @ViewBag.Gender<br />
+    <strong>department:</strong> @ViewBag.department<br />
+    <strong>skills:</strong> @string.Join(", ", ViewBag.skills)
+</div>
+
+
+
+
+
+
+
+
+
+
+<a href="/Home/Index">Back to Form</a>
