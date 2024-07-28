@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|c:\\users\\orange\\source\\repos\\webapplication19\\webapplication19\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|c:\\users\\orange\\source\\repos\\webapplication19\\webapplication19\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|c:\\users\\orange\\source\\repos\\webapplication19\\webapplication19\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|c:\\users\\orange\\source\\repos\\webapplication19\\webapplication19\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|c:\\users\\orange\\source\\repos\\webapplication19\\webapplication19\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{01CFDD72-A4A3-4FC4-BFE4-A0CB2C2E034F}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication19\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication19\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T03:42:14.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication19\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebApplication19\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T03:40:12.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication19\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication19\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T03:40:07.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication19\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "WebApplication19\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T03:42:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "WebApplication19\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication19\\WebApplication19\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WebApplication19\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-28T03:37:16.173Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

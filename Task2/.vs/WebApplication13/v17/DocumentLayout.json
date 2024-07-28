@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\Task2\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|c:\\users\\orange\\source\\repos\\task2\\webapplication13\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\views\\home\\displaydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\home\\displaydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task2\\webapplication13\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\views\\home\\displaydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\home\\displaydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\views\\second\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\second\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\views\\second\\displaydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\second\\displaydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\views\\second\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\second\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\views\\second\\displaydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\second\\displaydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\source\\repos\\Task2\\webapplication13\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\webapplication13\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63F31609-0797-480C-8884-77775FD94CBF}|WebApplication13\\WebApplication13.csproj|solutionrelative:webapplication13\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -58,49 +58,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication13\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication13\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwEMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T18:33:40.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "WebApplication13\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "WebApplication13\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T19:10:02.536Z"
+              "DocumentIndex": 2,
+              "Title": "DisplayData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Home\\DisplayData.cshtml",
+              "RelativeDocumentMoniker": "WebApplication13\\Views\\Home\\DisplayData.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Home\\DisplayData.cshtml",
+              "RelativeToolTip": "WebApplication13\\Views\\Home\\DisplayData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T18:41:59.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SecondController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Controllers\\SecondController.cs",
-              "RelativeDocumentMoniker": "WebApplication13\\Controllers\\SecondController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Controllers\\SecondController.cs",
-              "RelativeToolTip": "WebApplication13\\Controllers\\SecondController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T18:58:45.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Home\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "WebApplication13\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "WebApplication13\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-24T06:37:37.203Z",
               "EditorCaption": ""
@@ -108,46 +85,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication13\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication13\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebApplication13\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebApplication13\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T18:31:36.381Z"
+              "WhenOpened": "2024-07-23T18:44:39.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication13\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication13\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:33:40.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DisplayData.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Second\\DisplayData.cshtml",
-              "RelativeDocumentMoniker": "WebApplication13\\Views\\Second\\DisplayData.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Second\\DisplayData.cshtml",
-              "RelativeToolTip": "WebApplication13\\Views\\Second\\DisplayData.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T19:00:51.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "WebApplication13\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "WebApplication13\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAowA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T18:44:39.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Second\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Second\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication13\\Views\\Second\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Second\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Second\\Index.cshtml",
               "RelativeToolTip": "WebApplication13\\Views\\Second\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -155,23 +122,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "SecondController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Controllers\\SecondController.cs",
+              "RelativeDocumentMoniker": "WebApplication13\\Controllers\\SecondController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Controllers\\SecondController.cs",
+              "RelativeToolTip": "WebApplication13\\Controllers\\SecondController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:58:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DisplayData.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Home\\DisplayData.cshtml",
-              "RelativeDocumentMoniker": "WebApplication13\\Views\\Home\\DisplayData.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Home\\DisplayData.cshtml",
-              "RelativeToolTip": "WebApplication13\\Views\\Home\\DisplayData.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Second\\DisplayData.cshtml",
+              "RelativeDocumentMoniker": "WebApplication13\\Views\\Second\\DisplayData.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Second\\DisplayData.cshtml",
+              "RelativeToolTip": "WebApplication13\\Views\\Second\\DisplayData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T18:41:59.265Z"
+              "WhenOpened": "2024-07-23T19:00:51.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication13\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication13\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T18:31:36.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication13\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication13\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:10:02.536Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication13\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication13\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -181,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebApplication13\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task2\\WebApplication13\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Task2\\WebApplication13\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "WebApplication13\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
