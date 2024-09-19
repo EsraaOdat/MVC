@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\views\\studentdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\views\\studentdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\migrations\\202409190512433_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\migrations\\202409190512433_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|c:\\users\\orange\\source\\repos\\codefirstmvctask1\\codefirstmvctask1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\codefirstmvctask1\\models\\mydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\models\\mydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\codefirstmvctask1\\migrations\\202409190443470_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\migrations\\202409190443470_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\codefirstmvctask1\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\codefirstmvctask1\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\codefirstmvctask1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\codefirstmvctask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CodeFirstMvcTask1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\codefirstmvctask1\\models\\assigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\models\\assigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\codefirstmvctask1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\codefirstmvctask1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8622E9-368A-481B-A34B-67D47A66A144}|CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj|solutionrelative:codefirstmvctask1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Views\\Teachers\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Views\\Teachers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Views\\Teachers\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Views\\Teachers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T05:17:54.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Views\\Classes\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Views\\Classes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Views\\Classes\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Views\\Classes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T05:17:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Controllers\\ClassesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:17:17.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:17:03.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Views\\StudentDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Views\\StudentDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Views\\StudentDetails\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Views\\StudentDetails\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T05:14:53.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\StudentDetailsController.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Controllers\\StudentDetailsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\StudentDetailsController.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Controllers\\StudentDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:14:49.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T05:13:46.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:13:29.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202409190512433_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Migrations\\202409190512433_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Migrations\\202409190512433_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Migrations\\202409190512433_InitialCreate1.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Migrations\\202409190512433_InitialCreate1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:12:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\Classes.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Models\\Classes.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:56:14.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Models\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:31:31.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\MyDataContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Models\\MyDataContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\MyDataContext.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Models\\MyDataContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA8wBkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:35:53.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202409190443470_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Migrations\\202409190443470_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Migrations\\202409190443470_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Migrations\\202409190443470_InitialCreate.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Migrations\\202409190443470_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:43:51.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Models\\StudentDetails.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\StudentDetails.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Models\\StudentDetails.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:58:21.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\Teacher.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:32:11.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:54:54.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CodeFirstMvcTask1",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj",
+              "RelativeToolTip": "CodeFirstMvcTask1\\CodeFirstMvcTask1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-19T04:54:44.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Web.config",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Web.config",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-19T04:33:04.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Assigment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\Assigment.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Models\\Assigment.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Models\\Assigment.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Models\\Assigment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:32:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "CodeFirstMvcTask1\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstMvcTask1\\CodeFirstMvcTask1\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "CodeFirstMvcTask1\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:43:30.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

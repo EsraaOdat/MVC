@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\task5\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task5\\task5\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task5\\task5\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|c:\\users\\orange\\source\\repos\\task5\\task5\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{67D16058-4A9D-4B7E-9020-84D119DFFA28}|task5\\task5.csproj|solutionrelative:task5\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -54,15 +58,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "task5\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "task5\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:20:39.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "task5\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "task5\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:40:30.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "task5\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "task5\\Models\\Model1.Context.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:42:14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "task5\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "task5\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:14:58.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "task5\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "task5\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T07:15:16.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Views\\Users\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Views\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "task5\\Views\\Users\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Views\\Users\\Delete.cshtml",
               "RelativeToolTip": "task5\\Views\\Users\\Delete.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -71,63 +138,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Views\\Users\\Edit.cshtml",
-              "RelativeDocumentMoniker": "task5\\Views\\Users\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Views\\Users\\Edit.cshtml",
-              "RelativeToolTip": "task5\\Views\\Users\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T07:15:16.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "task5\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "task5\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T07:14:58.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "task5\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "task5\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAwwBcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T06:40:30.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Views\\Users\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "task5\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Views\\Users\\Index.cshtml",
               "RelativeToolTip": "task5\\Views\\Users\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T07:14:11.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Views\\Users\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "task5\\Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Views\\Users\\Create.cshtml",
               "RelativeToolTip": "task5\\Views\\Users\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -136,67 +164,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Model1.Context.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\Model1.Context.cs",
-              "RelativeDocumentMoniker": "task5\\Models\\Model1.Context.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\Model1.Context.cs",
-              "RelativeToolTip": "task5\\Models\\Model1.Context.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T06:42:14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Model1.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\Model1.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Models\\Model1.cs",
               "RelativeDocumentMoniker": "task5\\Models\\Model1.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\Model1.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Models\\Model1.cs",
               "RelativeToolTip": "task5\\Models\\Model1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T06:42:04.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\User.cs",
-              "RelativeDocumentMoniker": "task5\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\User.cs",
-              "RelativeToolTip": "task5\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T06:42:06.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T06:42:04.25Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Model1.Context.tt",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\Model1.Context.tt",
-              "RelativeDocumentMoniker": "task5\\Models\\Model1.Context.tt",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\Model1.Context.tt",
-              "RelativeToolTip": "task5\\Models\\Model1.Context.tt",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Models\\User.cs",
+              "RelativeDocumentMoniker": "task5\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Models\\User.cs",
+              "RelativeToolTip": "task5\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-29T06:41:49.11Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:42:06.033Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Models\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "task5\\Models\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Models\\Model1.Context.tt",
+              "RelativeToolTip": "task5\\Models\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-29T06:41:49.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\Model1.edmx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task5\\task5\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "task5\\Models\\Model1.edmx",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\task5\\task5\\Models\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "task5\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\task5\\task5\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-07-29T06:37:35.92Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-07-29T06:37:35.92Z"
             }
           ]
         }
