@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MiniSchoolTask.Models.Subject>
+
+@{
+    ViewBag.Title = "Subjects List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Subjects</h2>
+
+<div class="row">
+    @foreach (var subject in Model)
+    {
+        <div class="col-md-4">
+            <div class="card" style="margin-bottom: 20px;">
+                <div class="card-body">
+                    <h5 class="card-title">@subject.SubjectName</h5>
+                    <p class="card-text">
+                        Class: @subject.Class.ClassName
+                    </p>
+                    <a href="@Url.Action("Details", new { id = subject.SubjectId })" class="btn btn-primary">View Students and Tasks</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<div>
+    <a href="@Url.Action("Create")" class="btn btn-success">Create New Subject</a>
+</div>

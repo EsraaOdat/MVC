@@ -1,0 +1,59 @@
+﻿@model MiniSchoolTask.Models.Subject
+
+@{
+    ViewBag.Title = "Subject Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.SubjectName</h2>
+
+<h4>Class: @Model.Class.ClassName</h4>
+
+<hr />
+
+<!-- Display Students in the Class -->
+<h3>Students</h3>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Student Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.Class.Students)
+        {
+            <tr>
+                <td>@student.StudentName</td>
+                <td>@student.StudentAge</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Display Tasks for the Subject -->
+<h3>Tasks</h3>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Task Name</th>
+            <th>Details</th>
+            <th>Enroll Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model.Tasks)
+        {
+            <tr>
+                <td>@task.TaskName</td>
+                <td>@task.TaskDetails</td>
+                <td>@task.EnrollDate.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a href="@Url.Action("Edit", new { id = Model.SubjectId })" class="btn btn-warning">Edit Subject</a> |
+    <a href="@Url.Action("Delete", new { id = Model.SubjectId })" class="btn btn-danger">Delete Subject</a>
+</div>
